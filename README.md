@@ -1,5 +1,6 @@
 <h1> The White City </h1>
 
+
 <h2> Mérida, the capital of Yucatan </h2>
 
 <p1> Mérida, city, capital of Yucatán estado (state), southeastern Mexico.
@@ -12,6 +13,7 @@ An early base for Spanish efforts to conquer the Maya, it subsequently became an
 By the early 20th century Mérida became one of Mexico’s most important commercial cities, but the henequen trade declined precipitously after World War II.
 Many former henequen plantations now grow citrus fruits (notably limes and lemons) and other crops.
 </p2>
+
 
 <h2> Some of several reasons why Mérida is important </h2>
 
@@ -29,3 +31,24 @@ Mérida has an international airport and is on the main highway between central 
 <p5>
 <a href="https://www.britannica.com/place/Merida-Mexico"> This is a link to the original article</a> from Britannica Webpage.
 </p5>
+
+<img src="https://en-yucatan.com.mx/fotos/merida/home/merida-yucatan.jpg" alt="Centro de Mérida (Downtown)">
+
+
+
+<h2> My favorite food from "White Mérida" </h2>
+
+<p6> Papadzules are a traditional dish of Mayan origin from the Gastronomy of Yucatán, Campeche and Quintana Roo, in Mexico.
+The name means, according to some Mayans, the food of the master. They are a mestizo dish, with clear indigenous influences.
+</6>
+
+<h3> Ingredients </h3>
+
+<ul>
+    <li>Tortillas</li>
+    <li>Boiled eggs</li>
+    <li>Pepitas sauce (pumpkin seeds) and tomato sauce</li>
+    <li>Chopped habanero pepper and onions>
+</ul>
+
+<img src="https://media-cdn.tripadvisor.com/media/photo-s/0d/c1/25/f6/papadzules-exotico-platillo.jpg" alt="Papadzules from Mérida">
