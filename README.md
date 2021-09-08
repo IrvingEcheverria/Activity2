@@ -29,8 +29,8 @@ Mérida has an international airport and is on the main highway between central 
 </p4>
 
 
-<p5>
-<a href="https://www.britannica.com/place/Merida-Mexico"> This is a link to the original article</a> from Britannica Webpage.
+<p5>Here, 
+<a href="https://www.britannica.com/place/Merida-Mexico"> this is a link to the original article</a> from Britannica Webpage.
 </p5>
 
 <p6>
@@ -62,7 +62,6 @@ The name means, according to some Mayans, the food of the master. They are a mes
 </p9>
 
 
-<p10>
-Thanks for reading!
+<p10>  Thanks for reading!
 Sincerely, Irvinggessú.
 </p10>
