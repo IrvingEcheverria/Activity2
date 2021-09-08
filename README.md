@@ -27,7 +27,7 @@ as are the city’s henequen-era mansions. Beach activities and sportfishing are
 <p4> The city is the site of the Autonomous University of Yucatán (1922). The Regional Museum of Anthropology (1920) exhibits Olmec and Mayan artifacts.
 Mérida has an international airport and is on the main highway between central Mexico and Cancún. </p4>
 
-
+<br>
 <p5>Here, 
 <a href="https://www.britannica.com/place/Merida-Mexico"> this is a link to the original article</a> from Britannica Webpage.
 </p5>
@@ -60,7 +60,7 @@ The name means, according to some Mayans, the food of the master. They are a mes
 <img src="https://media-cdn.tripadvisor.com/media/photo-s/0d/c1/25/f6/papadzules-exotico-platillo.jpg" alt="Papadzules from Mérida">
 </p9>
 
-
+<br>
 <p10>  Thanks for reading!
 Sincerely, Irvinggessú.
 </p10>
