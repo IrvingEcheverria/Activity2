@@ -51,6 +51,7 @@ The name means, according to some Mayans, the food of the master. They are a mes
     <li>Boiled eggs</li>
     <li>Pepitas sauce (pumpkin seeds) and tomato sauce</li>
     <li>Chopped habanero pepper and onions</li>
+</ul>
 
 <p8>
 <img src="https://media-cdn.tripadvisor.com/media/photo-s/0d/c1/25/f6/papadzules-exotico-platillo.jpg" alt="Papadzules from Mérida">
