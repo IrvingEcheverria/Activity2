@@ -25,8 +25,7 @@ as are the city’s henequen-era mansions. Beach activities and sportfishing are
 </p3>
 
 <p4> The city is the site of the Autonomous University of Yucatán (1922). The Regional Museum of Anthropology (1920) exhibits Olmec and Mayan artifacts.
-Mérida has an international airport and is on the main highway between central Mexico and Cancún.
-</p4>
+Mérida has an international airport and is on the main highway between central Mexico and Cancún. </p4>
 
 
 <p5>Here, 
@@ -53,7 +52,7 @@ The name means, according to some Mayans, the food of the master. They are a mes
     <li>Chopped habanero pepper and onions</li>
 </ul>
 
-<p8>
+<p8> 
 <a href="https://www.seriouseats.com/papadzules-from-yucatan"> This is a link to a Papadzules recipe</a> from Serious Eats Webpage.
 </p8>
 
