@@ -28,19 +28,21 @@ as are the city’s henequen-era mansions. Beach activities and sportfishing are
 Mérida has an international airport and is on the main highway between central Mexico and Cancún.
 </p4>
 
+
 <p5>
 <a href="https://www.britannica.com/place/Merida-Mexico"> This is a link to the original article</a> from Britannica Webpage.
 </p5>
 
+<p6>
 <img src="https://en-yucatan.com.mx/fotos/merida/home/merida-yucatan.jpg" alt="Centro de Mérida (Downtown)">
-
+</p6>
 
 
 <h2> My favorite food from "White Mérida" </h2>
 
-<p6> Papadzules are a traditional dish of Mayan origin from the Gastronomy of Yucatán, Campeche and Quintana Roo, in Mexico.
+<p7> Papadzules are a traditional dish of Mayan origin from the Gastronomy of Yucatán, Campeche and Quintana Roo, in Mexico.
 The name means, according to some Mayans, the food of the master. They are a mestizo dish, with clear indigenous influences.
-</6>
+</p7>
 
 <h3> Ingredients </h3>
 
@@ -49,6 +51,7 @@ The name means, according to some Mayans, the food of the master. They are a mes
     <li>Boiled eggs</li>
     <li>Pepitas sauce (pumpkin seeds) and tomato sauce</li>
     <li>Chopped habanero pepper and onions>
-</ul>
 
+<p8>
 <img src="https://media-cdn.tripadvisor.com/media/photo-s/0d/c1/25/f6/papadzules-exotico-platillo.jpg" alt="Papadzules from Mérida">
+</p8>
