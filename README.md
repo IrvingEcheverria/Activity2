@@ -1,7 +1,7 @@
 <h1> The White City </h1>
 
 
-<h2> Mérida, the capital of Yucatan </h2>
+<h2> Mérida, the capital of Yucatán </h2>
 
 <p1> Mérida, city, capital of Yucatán estado (state), southeastern Mexico.
 It lies near the northwestern tip of the Yucatán Peninsula, about 20 miles (30 km) south of Progreso, its port on the Gulf of Mexico.
@@ -54,5 +54,14 @@ The name means, according to some Mayans, the food of the master. They are a mes
 </ul>
 
 <p8>
-<img src="https://media-cdn.tripadvisor.com/media/photo-s/0d/c1/25/f6/papadzules-exotico-platillo.jpg" alt="Papadzules from Mérida">
+<a href="https://www.seriouseats.com/papadzules-from-yucatan"> This is a link to a Papadzules recipe</a> from Serious Eats Webpage.
 </p8>
+
+<p9>
+<img src="https://media-cdn.tripadvisor.com/media/photo-s/0d/c1/25/f6/papadzules-exotico-platillo.jpg" alt="Papadzules from Mérida">
+</p9>
+
+<p10>
+Thanks for reading!
+Sincerely, Irvinggessú.
+</p10>
